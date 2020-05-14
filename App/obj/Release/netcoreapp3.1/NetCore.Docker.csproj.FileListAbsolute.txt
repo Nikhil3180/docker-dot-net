@@ -1,0 +1,12 @@
+/Users/nikhilgoel/Desktop/docker-working/App/bin/Release/netcoreapp3.1/NetCore.Docker.deps.json
+/Users/nikhilgoel/Desktop/docker-working/App/bin/Release/netcoreapp3.1/NetCore.Docker.runtimeconfig.json
+/Users/nikhilgoel/Desktop/docker-working/App/bin/Release/netcoreapp3.1/NetCore.Docker.runtimeconfig.dev.json
+/Users/nikhilgoel/Desktop/docker-working/App/bin/Release/netcoreapp3.1/NetCore.Docker.dll
+/Users/nikhilgoel/Desktop/docker-working/App/bin/Release/netcoreapp3.1/NetCore.Docker.pdb
+/Users/nikhilgoel/Desktop/docker-working/App/obj/Release/netcoreapp3.1/NetCore.Docker.csprojAssemblyReference.cache
+/Users/nikhilgoel/Desktop/docker-working/App/obj/Release/netcoreapp3.1/NetCore.Docker.csproj.CoreCompileInputs.cache
+/Users/nikhilgoel/Desktop/docker-working/App/obj/Release/netcoreapp3.1/NetCore.Docker.AssemblyInfoInputs.cache
+/Users/nikhilgoel/Desktop/docker-working/App/obj/Release/netcoreapp3.1/NetCore.Docker.AssemblyInfo.cs
+/Users/nikhilgoel/Desktop/docker-working/App/obj/Release/netcoreapp3.1/NetCore.Docker.dll
+/Users/nikhilgoel/Desktop/docker-working/App/obj/Release/netcoreapp3.1/NetCore.Docker.pdb
+/Users/nikhilgoel/Desktop/docker-working/App/obj/Release/netcoreapp3.1/NetCore.Docker.genruntimeconfig.cache
